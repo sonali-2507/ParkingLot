@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d29086c7-8d9e-4b8a-9419-d86bc1b876bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ParkingLot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controllers/TicketController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controllers/dto/IssueTicketRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controllers/dto/IssueTicketResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controllers/dto/ResponseStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/GateNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/BaseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/BillStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/FeeCalculatorStrategyType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Gate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/GateStaus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/GateType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/ParkingFloor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/ParkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/ParkingLotStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/ParkingSlot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/ParkingSpotStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/PaymentMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/PaymentStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/SlotAssignmentStrategyType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/VehicleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repositories/GateRepositories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repositories/ParkingLotRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repositories/TicketRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repositories/VehicleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Services/TicketService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategies/SpotAssignmentStrategy/RandomSpotAssignmentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategies/SpotAssignmentStrategy/SpotAssignmentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strategies/SpotAssignmentStrategy/SpotAssignmentStrategyFactory.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2Yq4Q6wNO1O62n2VujtCx6BxIKV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Models" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ParkingLot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d29086c7-8d9e-4b8a-9419-d86bc1b876bb" name="Changes" comment="" />
+      <created>1701239761562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701239761562</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
